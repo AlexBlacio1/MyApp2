@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MyApp2",
+    "slug": "myapp2",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
